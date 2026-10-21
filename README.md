@@ -8,7 +8,7 @@ A collection of artificial intelligence projects exploring machine learning and 
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Lunar Project](./Lunar-Project) | Trains PPO agents to land a spacecraft in `LunarLander-v3` and compares reward-shaping strategies | Python, Gymnasium, Stable-Baselines3, Matplotlib |
+| [Lunar Project](https://github.com/maaroufferes/AI/tree/main/Lunar%20Project) | Trains PPO agents to land a spacecraft in `LunarLander-v3` and compares reward-shaping strategies | Python, Gymnasium, Stable-Baselines3, Matplotlib |
 
 *Additional projects will be added here as they are completed.*
 
