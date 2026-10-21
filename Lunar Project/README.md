@@ -129,11 +129,3 @@ contains up to five `.mp4` recordings named for their selected reward category:
 `lowest`, `halfway_to_zero`, `closest_to_zero`, `halfway_to_max`, and `highest`.
 These videos are outputs of evaluation, not inputs needed to train the agents.
 
-### Local environment and generated files
-
-- `venv/` is a machine-specific Python virtual environment, not application
-  source. Create a new environment and install the dependencies above rather
-  than relying on the checked-in environment folder.
-- `__pycache__/` contains Python bytecode generated when scripts are run; it is
-  not required to run the project.
-
