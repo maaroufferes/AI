@@ -1,4 +1,4 @@
-# Lunar Lander: PPO Training and Analysis
+# Lunar Project: PPO Training and Analysis
 
 This project trains and evaluates reinforcement-learning agents in Gymnasium's
 `LunarLander-v3` environment. It compares a standard Proximal Policy
