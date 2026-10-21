@@ -16,7 +16,7 @@ A collection of artificial intelligence projects exploring machine learning and 
 
 Trains and compares three Proximal Policy Optimization (PPO) agents in `LunarLander-v3`: a baseline, one rewarded for hovering upright and slowly, and one penalized for every step taken. Includes interactive training charts and recorded landing videos.
 
-For setup instructions, usage, and the full file structure, see the [Lunar Project README](./Lunar-Project/README.md).
+For setup instructions, usage, and the full file structure, see the [Lunar Project README](https://github.com/maaroufferes/AI/blob/main/Lunar%20Project/README.md).
 
 ## Repository Structure
 
